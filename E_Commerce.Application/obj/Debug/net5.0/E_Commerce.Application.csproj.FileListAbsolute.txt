@@ -1,0 +1,12 @@
+D:\BackEnd\.Net\MapsaHR\E_Commerce\E_Commerce.Application\bin\Debug\net5.0\E_Commerce.Application.deps.json
+D:\BackEnd\.Net\MapsaHR\E_Commerce\E_Commerce.Application\bin\Debug\net5.0\E_Commerce.Application.dll
+D:\BackEnd\.Net\MapsaHR\E_Commerce\E_Commerce.Application\bin\Debug\net5.0\ref\E_Commerce.Application.dll
+D:\BackEnd\.Net\MapsaHR\E_Commerce\E_Commerce.Application\bin\Debug\net5.0\E_Commerce.Application.pdb
+D:\BackEnd\.Net\MapsaHR\E_Commerce\E_Commerce.Application\obj\Debug\net5.0\E_Commerce.Application.csproj.AssemblyReference.cache
+D:\BackEnd\.Net\MapsaHR\E_Commerce\E_Commerce.Application\obj\Debug\net5.0\E_Commerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\.Net\MapsaHR\E_Commerce\E_Commerce.Application\obj\Debug\net5.0\E_Commerce.Application.AssemblyInfoInputs.cache
+D:\BackEnd\.Net\MapsaHR\E_Commerce\E_Commerce.Application\obj\Debug\net5.0\E_Commerce.Application.AssemblyInfo.cs
+D:\BackEnd\.Net\MapsaHR\E_Commerce\E_Commerce.Application\obj\Debug\net5.0\E_Commerce.Application.csproj.CoreCompileInputs.cache
+D:\BackEnd\.Net\MapsaHR\E_Commerce\E_Commerce.Application\obj\Debug\net5.0\E_Commerce.Application.dll
+D:\BackEnd\.Net\MapsaHR\E_Commerce\E_Commerce.Application\obj\Debug\net5.0\ref\E_Commerce.Application.dll
+D:\BackEnd\.Net\MapsaHR\E_Commerce\E_Commerce.Application\obj\Debug\net5.0\E_Commerce.Application.pdb
